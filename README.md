@@ -214,14 +214,26 @@ Recommended views for Tableau:
 ## 📁 Repo Structure
 ```text
 GlobalCovidAnalysis/
-├─ README.md
-├─ sql/
-│  └─ global_covid_analysis.sql
+├─ assumptions/
+│  └─ assumptions.md
 ├─ data/
 │  ├─ CovidDeaths.xlsx
 │  └─ CovidVaccinations.xlsx
-└─ outputs/
-   └─ (optional CSV exports for Tableau Public)
+├─ data_dictionary/
+│  └─ data_dictionary.md
+├─ dataset_overview/
+│  └─ dataset_overview.md
+├─ executive/
+│  └─ executive_analysis.md
+├─ methodology/
+│  └─ methodology.md
+├─ requirements/
+│  └─ requirements.md
+├─ sql/
+│  └─ GlobalCovidAnalysis(ready).sql
+├─ .gitattributes
+└─ README.md
+
 ```
 
 ---
