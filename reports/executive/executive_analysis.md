@@ -1,4 +1,4 @@
-# 🌍 Global Covid Analysis — Executive Summary (B1–B2 English)
+# 🌍 Global Covid Analysis — Executive Summary 
 
 ## 🎯 Project Goal
 This SQL portfolio project explores **global COVID-19 data** to understand:
