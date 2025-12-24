@@ -687,7 +687,7 @@ GO
 
 
 /* =========================================================
-   SECTION 18 — COUNTRY SEGMENTATION (ADJUSTED THRESHOLDS)
+   SECTION 17 — COUNTRY SEGMENTATION (ADJUSTED THRESHOLDS)
 
    Purpose:
    - Segment countries into categories based on normalized metrics.
