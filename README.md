@@ -1,4 +1,4 @@
-# 🌍 Global Covid Analysis (SQL Portfolio Project)
+# 🌍 Global Covid Analysis (SQL-Based COVID-19 Data Exploration)
 
 A SQL portfolio project that explores global COVID-19 cases, deaths, and vaccinations.  
 The output is designed to be **BI-ready** (Tableau-friendly) with reusable **views** and clean KPI logic.
