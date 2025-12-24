@@ -211,7 +211,7 @@ Recommended views for Tableau:
 
 ---
 
-## 📁 Suggested Repo Structure
+## 📁 Repo Structure
 ```text
 GlobalCovidAnalysis/
 ├─ README.md
